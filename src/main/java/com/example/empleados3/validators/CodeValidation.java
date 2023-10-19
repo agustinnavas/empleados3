@@ -7,7 +7,7 @@ import java.lang.annotation.Documented;
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;
 
-import com.example.empleados2.validators.ValidCode;
+import com.example.empleados3.validators.ValidCode;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;
